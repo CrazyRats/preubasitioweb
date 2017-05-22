@@ -1,0 +1,29 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3781603658"/>
+    <file name="index.css" crc="215390210" ref="index"/>
+    <file name="master_a-p_gina-maestra.css" crc="3876067411" ref="música:fotos:rituales:index:guía-turística:información"/>
+    <file name="m_sica.css" crc="4102044597" ref="música"/>
+    <file name="fotos.css" crc="4102044597" ref="fotos"/>
+    <file name="rituales.css" crc="4102044597" ref="rituales"/>
+    <file name="gu_a-tur_stica.css" crc="4038382318" ref="guía-turística"/>
+    <file name="informaci_n.css" crc="4102044597" ref="información"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:rituales:música:fotos:guía-turística:información"/>
+    <file name="museutils.js" crc="3865766194" ref="index:rituales:música:fotos:guía-turística:información"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:rituales:música:fotos:guía-turística:información"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:rituales:música:fotos:guía-turística:información"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="35378864" ref="index:rituales:música:fotos:guía-turística:información"/>
+    <file name="foto.jpg" crc="4025797637" ref="index"/>
+  </folder>
+  <file name="index.html" crc="111918380" mt="1403834401388" redirect="true"/>
+  <file name="rituales.html" crc="4050958102" mt="1403834377093" redirect="true"/>
+  <file name="música.html" crc="3932622475" mt="1403834377096" redirect="true"/>
+  <file name="fotos.html" crc="4266157340" mt="1403834377098" redirect="true"/>
+  <file name="guía-turística.html" crc="3955998669" mt="1403835068053" redirect="true"/>
+  <file name="información.html" crc="3902783279" mt="1403834377110" redirect="true"/>
+</manifest>
